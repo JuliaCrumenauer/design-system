@@ -1,1 +1,1 @@
-export * from "./";
+console.log('Ok')
