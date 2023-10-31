@@ -1,4 +1,4 @@
-"use strict";
+'use strict'
 
 // src/index.ts
-console.log("Ok");
+console.log('Ok')
